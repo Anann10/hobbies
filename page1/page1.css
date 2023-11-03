@@ -1,0 +1,192 @@
+.navheadbox{
+    height: 10px;
+ }
+ #navhead{
+     background-color: rgb(252, 193, 241);
+     border-radius: 30px;
+     height: 40px;
+     width: 800px;
+     padding: 5px;
+     font-family: 'Mali';
+     font-size: 19px;
+     display: flex;
+     flex-direction: row;
+     gap:30px;
+     justify-content: center;
+     flex-wrap: wrap;
+     margin: 10px auto;
+     top: 0;
+ }
+ 
+ html{
+     scroll-behavior: smooth;
+ }
+ a{
+     text-decoration: none;
+     height: 20px;
+     padding: 10px;
+     border-radius: 5px;
+ 
+ }
+ a:hover{
+     background-color:rgb(142, 182, 255); 
+     color: blue;
+ }
+
+ h1 {
+    font-family: 'Lily Script One', cursive;
+    font-size: 40px;
+    color:cornflowerblue;
+    margin: 0;
+    line-height: 20px;
+    text-align: center; 
+  
+
+}
+
+h4{
+font-family: 'Jaldi', sans-serif;
+
+font-size: 25px; 
+padding-left: 50px; 
+line-height: 0px;
+color:rgb(40, 90, 183);
+}
+
+#me{ font-size: 20px;}
+
+
+#welcome{
+font-size: 29px;
+color:rgb(94, 94, 233);
+}
+#para1{
+margin:50px;
+font-size: 15px;
+font-family: 'Mali';
+
+}
+#img1 {
+margin: 0 350px 300px 0;
+}
+#img2{
+
+max-width: 15%;
+height: 10%;
+float: right; 
+margin-left: 10px;
+}
+#myhobbies{
+font-family: 'Mali';
+font-size: 22px; 
+color:rgb(40, 90, 183);
+
+
+}
+
+#para2{ font-size: 19px;
+margin-right: 10px;
+
+}
+
+#about{
+color:  rgb(66, 66, 113); 
+font-size: 23px;
+font-family: 'Mali';
+position: absolute;
+margin-top: 130px;
+margin-left: 40px;
+z-index: 10;
+}
+#explore{
+font-family: 'Mali';
+}
+
+
+#mebox{
+background-color: rgb(202, 220, 253);
+width: 1030px;
+height: 400px;
+margin-left: 130px;
+margin-right: 300px;
+border-radius: 30px;
+
+
+}
+#meimg{
+position: absolute;
+right: 30px;
+top: 290px;
+}
+#hello{
+position: absolute;
+right: 140px;
+top: 200px;
+}
+
+
+
+#rh1{
+margin-top: -5px;
+}
+
+#readingbox{
+width: 900px;
+height: 200px;
+background-color:rgb(203, 214, 235);
+margin-left: 200px;
+margin-right: 50px;
+border-radius: 20px;
+border:cornflowerblue solid;
+transition:2s;
+}
+#sectionread{
+font-family: 'Mali';
+font-size: 40px;
+margin-top: 85px;
+margin-left: 380px;
+
+color:rgb(40, 90, 183);
+}
+
+#sectionill{
+font-family: 'Mali';
+font-size: 40px;
+margin-top: 85px;
+margin-left: 380px;
+
+color:rgb(40, 90, 183);
+}
+
+
+#readingbox:hover{
+background-color: rgb(252, 193, 241);
+
+}
+#readline{
+text-align: right;
+margin-right: 210px;
+font-size: 20px;
+font-family: 'Mali';
+color:rgb(40, 90, 183);
+}
+
+#illline{
+text-align: right;
+margin-right: 210px;
+font-size: 20px;
+font-family: 'Mali';
+color:rgb(40, 90, 183);
+}
+
+/* #abooks{
+font-family: 'Jaldi', sans-serif ; 
+font-size: 17px;
+margin-left: 50px;
+} */
+
+#next1{
+    font-size: 17;
+    font-family: 'Mali';
+}
+ 

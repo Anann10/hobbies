@@ -1,0 +1,205 @@
+.navheadbox{
+   height: 10px;
+}
+#navhead{
+    background-color: rgb(252, 193, 241);
+    border-radius: 30px;
+    height: 40px;
+    width: 800px;
+    padding: 5px;
+    font-family: 'Mali';
+    font-size: 19px;
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px auto;
+    top: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+    height: 20px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+a:hover{
+    background-color:rgb(142, 182, 255); 
+    color: blue;
+}
+
+
+
+#welcome{
+   
+   font-family: 'Lily Script One', cursive; /* Use 'Lily Script One' font */
+   font-size: 39px;
+   color:cornflowerblue;
+   margin-top: -10px;
+   line-height: 20px;
+   text-align: center; 
+   letter-spacing: 2px;
+}
+
+#illtt{
+    font-family: 'Lily Script One', cursive; 
+    font-size: 40px;
+    color:cornflowerblue;
+    margin: 0;
+    line-height: 20px;
+    text-align: center;    
+ }
+ #illbox{
+    background-color: rgb(202, 220, 253);
+       width: 1030px;
+       height: 400px;
+       margin-left: 130px;
+       margin-right: 300px;
+       border-radius: 30px;
+       
+      
+ }
+ 
+#containerill{
+   width: 1200px;
+   height: 500px; 
+   background-color: rgb(246, 210, 239);
+   border: 4px solid rgb(202, 217, 243);
+   border-radius: 30px;
+   margin-left: 60px;
+   justify-content: center;
+}
+#illimgpink{
+   float: right;
+   margin-left:50px ;
+   margin-right: 150px;
+   margin-top: 45px;
+   border-radius: 30px;
+   border: 3px solid white;
+}
+#illpara1{
+   font-family: 'Mali';
+   font-size: 20px;
+   color:rgb(163, 54, 143);
+   padding:100px ;
+   margin-left: 50px;
+    
+}
+#pinkflower1{
+   margin-left:530px;
+   padding: 10px;
+  
+}
+#illbox1{
+   width: 1200px;
+   height: 500px; 
+   background-color: rgb(188, 211, 255);
+   border: 4px solid rgb(246, 210, 239);
+   border-radius: 30px;
+   margin-left: 60px;
+   justify-content: center;
+
+}
+#imgill1{
+   float:left;
+   margin-left:150px ;
+   margin-right: 150px;
+   margin-top: 55px;
+}
+#imgillpara{
+   font-family: 'Mali';
+   font-size: 20px;
+   color:rgb(163, 54, 143);
+   padding:100px ;
+   margin-left: 50px;
+   margin-top: 100px;
+}
+#illbox2{
+   width: 1200px;
+   height: 500px; 
+   background-color: rgb(246, 210, 239);
+   border: 4px solid rgb(202, 217, 243);
+   border-radius: 30px;
+   margin-left: 60px;
+   justify-content: center;
+
+}
+#imgill2{
+   float:right;
+   margin-left:150px ;
+   margin-right: 140px;
+   margin-top: 55px;
+   border: 7px solid white;
+
+}
+#imgillpara2{
+   font-family: 'Mali';
+   font-size: 20px;
+   color:rgb(163, 54, 143);
+   padding:90px ;
+   margin-left: 100px;
+   margin-top: 100px;
+}
+
+#illbox3{
+   width: 1200px;
+   height: 500px; 
+   background-color:  rgb(202, 217, 243);
+   border: 4px solid rgb(246, 210, 239);
+   border-radius: 30px;
+   margin-left: 60px;
+   justify-content: center;
+
+}
+#imgill3{
+   float:left;
+   margin-left:150px ;
+   margin-right: 140px;
+   margin-top: 55px;
+   border: 7px solid white;
+   
+
+}
+#imgillpara3{
+   font-family: 'Mali';
+   font-size: 20px;
+   color:rgb(163, 54, 143);
+   padding:90px ;
+   margin-left: 100px;
+   margin-top: 100px;
+}
+
+
+#pinkflower2{
+   height: 20%;
+   width: 20%;
+}
+#pinkflower3{
+   height: 20%;
+   width: 20%;
+   
+}
+#end{
+   width: 200px;
+   height:50px;
+   border-radius: 30px;
+   background-color: rgb(246, 210, 239);
+   float: right;
+   margin-right: 50px;
+
+}
+#thank{
+   font-family:'Mali' ;
+   text-align: center;
+   padding: 10px;
+   font-size: 25px;
+   margin-top: -30px;
+
+}
+
+
